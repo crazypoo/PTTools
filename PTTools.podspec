@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "PTTools"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "A useful Swift library."
   spec.description  = "This library provides essential functions for iOS developers."
   spec.homepage     = "https://github.com/crazypoo/PTTools"
